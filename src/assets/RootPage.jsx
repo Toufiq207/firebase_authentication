@@ -6,6 +6,7 @@ function RootPage() {
     <div>
         <ul>
             
+            <li><Link to="/signUP">SignUP</Link></li>
             <li><Link to="/login">Login</Link></li>
             <li><Link to="/">Home</Link></li>
             
